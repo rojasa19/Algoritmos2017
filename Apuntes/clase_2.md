@@ -1,22 +1,18 @@
 # Asignacion
 
 ## Interna
-----------
+
 |a <-- 10| ------> esto es igual en código: `int a = 10;`
-----------
 
 ## Externa
 
 - Entrada:
------
+
 \ a / ---> esto es igual en código: `cin`
- ---
 
 - Salida:
 
- ---
 / a \ ---> esto es igual en código: `cout`
------
 
 # Condicionales
 
