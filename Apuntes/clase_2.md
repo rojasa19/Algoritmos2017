@@ -1,11 +1,11 @@
-#Asignacion
+# Asignacion
 
-##Interna
+## Interna
 ----------
 |a <-- 10| ------> esto es igual en código: `int a = 10;n
 ----------
 
-##Externa
+## Externa
 
 - Entrada:
 -----
@@ -18,9 +18,9 @@
 / a \ ---> esto es igual en código: `cout`
 -----
 
-#Condicionales
+# Condicionales
 
-##En diagrama
+## En diagrama
 
   /-------------------\
  /	condición lógica   \
@@ -30,10 +30,10 @@
 |			|	   	    |
 -------------------------
 
-##En codigo
+## En codigo
 
 `
-if('condicion a controlar') {
+if('condicion a controlar') {\\
 	'codigo si es verdad';
 }else {
 	'codigo si no es verdad';
