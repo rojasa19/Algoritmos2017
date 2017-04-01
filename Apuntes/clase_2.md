@@ -2,7 +2,7 @@
 
 ## Interna
 ----------
-|a <-- 10| ------> esto es igual en código: `int a = 10;n
+|a <-- 10| ------> esto es igual en código: `int a = 10;`
 ----------
 
 ## Externa
@@ -106,8 +106,7 @@ if(a == 3) {
 
 ##Else if()
 
-:::c++
-
+`
 if(condicion) {
 	"esto es verdad en la primera condición";
 }else if(segundaCondicion){
@@ -115,7 +114,7 @@ if(condicion) {
 }else {
 	"esto no es verdad";
 }
-
+`
 
 # Estructuras de repetición
 
@@ -137,5 +136,24 @@ while(condicion) {
 do {
 	"Se ejecuta la lógica";
 }while(condicion) {
-`	
+	"Se ejecuta la lógica";
 }
+`	
+
+## For
+- Se crea una variable índice que mientras esta cumpla la condición, se ejecutara la lógica.
+
+`
+for(int i = 0; i < 10; i++) {
+	"Se ejecuta la lógica";
+}
+`
+
+# Tipos de datos
+
+- Int: (Integer) 				4 bytes
+- unsigned int:					4 bytes
+- bool:							1 byte
+- char:							1 byte
+- double (numeros con coma):	8 byte
+- float (numeros con coma):		8 byte
