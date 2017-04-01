@@ -116,3 +116,25 @@ if(condicion) {
 }
 `
 
+# Estructuras de repetición
+
+## While
+
+- La lógica interna se repetira tantas veces hasta que la condición dentro no se cumpla.
+
+`
+while(condicion) {
+	"logica que se ejecutara, mientras se cumpla la condición";
+}
+`
+
+## do while
+
+- La lógica interna se repetira tantas veces hasta que la condición dentro no se cumpla. Pero siempre se ejecuta por lo menos una vez.
+
+`
+do {
+	"Se ejecuta la lógica";
+}while(condicion) {
+`	
+}
