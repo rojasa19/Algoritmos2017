@@ -36,7 +36,7 @@ if('condicion a controlar') {\\
 }
 `
 
-** Nota ** En c++ en una condicion, cualquier numero es VERDAD:
+**Nota** En c++ en una condicion, cualquier numero es VERDAD:
 
 `
 if(1) {
