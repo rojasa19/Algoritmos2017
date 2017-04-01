@@ -45,7 +45,7 @@ if(1) {
 	"esto no es verdad y no entra";
 }
 `
-#Operadores
+# Operadores
 
 - A < B --> "A" es menor que "B".
 - A <= B --> "A" es menor o igual que "B".
@@ -60,7 +60,7 @@ if(1) {
 - || --> "OR" se debe cumplir una u otra condición.
 - ! --> Negación de una condición.
 
-##Ejemplo de &&
+## Ejemplo de &&
 
 `
 if(1==1 && 2==2) {
@@ -70,7 +70,7 @@ if(1==1 && 2==2) {
 }
 `
 
-##Ejemplo de !!
+## Ejemplo de !!
 
 `
 if(1==2 || 2==2) {
@@ -90,7 +90,7 @@ if(a = 3){
 }
 `
 
-** Nota ** Para controlar si una variable es igual a un número se escribe:
+**Nota** Para controlar si una variable es igual a un número se escribe:
 
 `
 if(a == 3) {
@@ -100,7 +100,7 @@ if(a == 3) {
 }
 `
 
-##Else if()
+## Else if()
 
 `
 if(condicion) {
