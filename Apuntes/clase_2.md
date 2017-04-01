@@ -106,20 +106,15 @@ if(a == 3) {
 
 ##Else if()
 
-`
+:::c++
 if(condicion) {
-
 	"esto es verdad en la primera condición";
-
 }else if(segundaCondicion){
-
 	"esto es verdad en la segunda condición";
-
 }else {
-
 	"esto no es verdad";
 }
-`
+
 
 # Estructuras de repetición
 
