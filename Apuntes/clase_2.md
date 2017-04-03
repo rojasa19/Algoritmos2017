@@ -18,21 +18,17 @@
 
 ## En diagrama
 
-  /-------------------\
- /	condición lógica   \
-/-----------------------\
-|			|	   	    |
-|	TRUE	|	False   |
-|			|	   	    |
--------------------------
+~~~
+  /--------------------------\
+ /	condición lógica      \
+/------------------------------\
+|		|	       |	
+|	TRUE	|     False    |
+|		|	       |	
+--------------------------------
+~~~
 
 ## En codigo
-
-:::python
-    import lifetime
-    
-    for each_day in lifetime.days():
-        carpe_diem()
 
 ~~~
 if('condicion a controlar') {
