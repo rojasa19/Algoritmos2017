@@ -1,4 +1,4 @@
-# Asignacion
+# Asignación
 
 ## Interna
 
@@ -28,17 +28,17 @@
 --------------------------------
 ~~~
 
-## En codigo
+## En código
 
 ~~~
-if('condicion a controlar') {
-	'codigo si es verdad';
+if('condición a controlar') {
+	'código si es verdad';
 }else {
-	'codigo si no es verdad';
+	'código si no es verdad';
 }
 ~~~
 
-**Nota** En c++ en una condicion, cualquier numero es VERDAD:
+**Nota** En c++ en una condición, cualquier número es VERDAD:
 
 ~~~
 if(1) {
@@ -106,7 +106,7 @@ if(a == 3) {
 ## Else if()
 
 ~~~
-if(condicion) {
+if(condición) {
 	"esto es verdad en la primera condición";
 }else if(segundaCondicion){
 	"esto es verdad en la segunda condición";
@@ -123,7 +123,7 @@ if(condicion) {
 
 ~~~
 while(condicion) {
-	"logica que se ejecutara, mientras se cumpla la condición";
+	"lógica que se ejecutara, mientras se cumpla la condición";
 }
 ~~~
 
