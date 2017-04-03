@@ -28,13 +28,13 @@
 
 ## En codigo
 
-`
-if('condicion a controlar') {\\
+~~~
+if('condicion a controlar') {
 	'codigo si es verdad';
 }else {
 	'codigo si no es verdad';
 }
-`
+~~~
 
 **Nota** En c++ en una condicion, cualquier numero es VERDAD:
 
