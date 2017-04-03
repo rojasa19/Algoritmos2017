@@ -5,6 +5,7 @@
 - Email: borre.hernan@gmail.com.
 - Jefe de catedra: Oscar Bruno, Twitter: @orbruno.
 - Apuntes: En el blog de Oscar Bruno. Tambien tiene el instructivo de como descargar e instalar el codeBlock.
+
 -- Link: https://droscarbruno.wordpress.com
 
 ## Trabajos Practicos
