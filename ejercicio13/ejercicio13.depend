@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496495992 source:c:\users\arojas\desktop\algoritmos2017\ejercicio13\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
